@@ -1,6 +1,9 @@
 # Sign Language Detection and Translation
 This project aims to develop a robust machine learning model capable of detecting sign language gestures and translating them into English text. By leveraging advanced computer vision techniques and deep learning algorithms, this project seeks to bridge the communication gap for individuals who rely on sign language.
 
+## Demo
+https://github.com/user-attachments/assets/a4b69ea5-9c8f-45d4-a942-d68b8c62a807
+
 ## Project Overview
 ### Objective
 The primary goal of this project is to create an end-to-end system that:
